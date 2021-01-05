@@ -1,3 +1,9 @@
+/*
+to run:
+1. on terminal type the following command on projects directory: npm start 
+2. type http://localhost:3000/ on the browser to view the app
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
